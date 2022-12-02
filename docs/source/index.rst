@@ -1,19 +1,15 @@
-Welcome to Lumache's documentation!
+欢迎使用 LeaderDeep 深度学习软件！
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LeaderDeep** 是基于百度 PaddlePaddle 开发的深度学习软件。
+集图像数据管理，标注，训练，部署于一体的全流程开发软件。
+无论是否具备 AI 基础，极易理解，最快5分钟即可上手学会，15分钟完成模型训练。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. 注意::
 
-.. note::
+   文档更新或有不及时，请以实际软件使用为准。
 
-   This project is under active development.
-
-Contents
+目录
 --------
 
 .. toctree::
