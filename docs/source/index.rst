@@ -16,7 +16,7 @@
 
 .. toctree::
 
-   quick_start
+   quick_start.md
    clas.md
    seg.md
    
