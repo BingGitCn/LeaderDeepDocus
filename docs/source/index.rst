@@ -17,7 +17,7 @@
 .. toctree::
    :maxdepth: 1
 
-   quick_start.md
+   tutorials/index
    clas.md
    seg.md
    
