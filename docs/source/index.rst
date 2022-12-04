@@ -16,5 +16,6 @@
 
 .. toctree::
 
-   usage
    api
+   usage
+   
