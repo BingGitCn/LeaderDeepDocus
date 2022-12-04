@@ -1,5 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
+import os
+import recommonmark
 
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Project information
 
 project = 'LeaderDeep'
@@ -19,6 +22,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.githubpages',
     'sphinx.ext.napoleon',
+    'recommonmark',
     'sphinx_markdown_tables',
 ]
 
@@ -36,6 +40,8 @@ language = 'zh_CN'
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_static_path = ['_static']
 
 html_logo = 'logoHome.png'
 
