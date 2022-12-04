@@ -16,6 +16,7 @@
 
 .. toctree::
 
-   api
-   usage
+   quick_start
+   clas.md
+   seg.md
    
