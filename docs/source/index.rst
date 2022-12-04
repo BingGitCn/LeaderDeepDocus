@@ -18,6 +18,6 @@
    :maxdepth: 1
 
    tutorials/index
-   clas/clas
-   seg/seg
+   clas/index
+   seg/index
    
